@@ -74,3 +74,4 @@ Explanations to key concepts in Machine learning
 If you are interested to contribute, feel free to open a PR.
 
 [Join our Telegram](https://t.me/+DRZpWWMtt7c2OWQ1)
+[Donate to grow](https://www.buymeacoffee.com/echcon)
